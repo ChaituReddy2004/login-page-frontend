@@ -1,0 +1,63 @@
+
+.main{
+    background-color: rgb(185, 185, 218);
+}
+.formmain{
+    background-color: rgb(255, 255, 255);
+    width: fit-content;
+    margin-top: 100px;
+}
+#reg{
+    background-color: blue;
+    width: 400px;
+    margin-right: 0px;
+    height: 40px;
+}
+.abc{
+    display: flex;
+    text-align: left;
+    align-content: center;
+    align-items: center;
+    margin-left: 25px;
+}
+#firname{
+    width: 155px;
+    margin-right: 17px;
+}
+#secname{
+    width: 155px;
+}
+.email{
+    text-align: left;
+    margin-left: 25px;
+}
+#mail{
+    width: 338px;
+}
+.phone{
+    text-align: left;
+    margin-left: 25px;
+}
+#phone{
+    width: 338px;
+}
+.select{
+    display: flex;
+    margin-left: 25px;
+    text-align: left;
+}
+#sel{
+    width: 165px;
+}
+#cou{
+    width: 165px;
+}
+.city{
+    margin-right: 17px;
+}
+#button{
+    width: 348px;
+    background-color: rgb(63, 63, 255);
+    height: 25px;
+    font-weight: bolder;
+}
